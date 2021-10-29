@@ -52,6 +52,7 @@ id,price,rank,url
 338,0.5,2214,https://magiceden.io/item-details/CcLyyUxxM62pX5f3acnf7HiU6JLhsk2Q1W9YhuBkcbV3
 342,6,343,https://magiceden.io/item-details/4wvBiM72BRhgYoNax73S23o6YiitDFXdf9Cf4YmLVmY9
 346,0.04,1960,https://magiceden.io/item-details/9gF3Evav2ug2b6k88F5qbepyTdSxbRHyAxm9pM6GuvVz
+366,0.055,521,https://magiceden.io/item-details/9XiirBPbu38jEPWY7seHJufmzhFQ8N3h2JCFpCfCFbos
 367,0.2,1100,https://magiceden.io/item-details/6dd5W5K8AGq6Fm4PZ6KLCxrLmzexhxgzZ7i5drkq4c5t
 368,0.1,861,https://magiceden.io/item-details/nbjX2h1NDAQLejr1kFtcZXLMMc5XVtDrZrvA8HK9EH6
 378,0.02,1383,https://magiceden.io/item-details/CRSvPwa744kf3ViCiq7rH5iMzUFihQHMk5jsZ85CiXGC
@@ -74,7 +75,7 @@ id,price,rank,url
 421,0.2,899,https://magiceden.io/item-details/AoWStrznXcK3R62VQGvJee1m2SY3A3dUNKXL5ZkLsyet
 423,0.3,1259,https://magiceden.io/item-details/5dcx9wmYD4zNCYLkJxWunkmiAzVc1e9gEgSHvgqJPpyv
 425,0.02,1569,https://magiceden.io/item-details/GpBNnBtYj2NTcSjqgwZGiaFuZ84DGGAVwGC8DWDqicZG
-427,0.02,324,https://magiceden.io/item-details/GHEpohk3T9GRJVG7a6cRYXkodSZm31f3CMWN48rSexQ5
+427,0.1,324,https://magiceden.io/item-details/GHEpohk3T9GRJVG7a6cRYXkodSZm31f3CMWN48rSexQ5
 428,0.15,1332,https://magiceden.io/item-details/AeJt3JrvT7QFZ2VDfqpX7JoGKp55VmrPCvCxBxi9cfhF
 429,0.6969,44,https://magiceden.io/item-details/Gjem7S67T5Th2T9bEuC2GMRsD7KFYijRHE67oYaXhXnt
 431,0.04,1214,https://magiceden.io/item-details/BP8oj9WkdW6cmWTwrEDp2bfSUT9BPfyztFPV3uVsUj5k
@@ -475,7 +476,6 @@ id,price,rank,url
 2155,0.1,1248,https://magiceden.io/item-details/AZdtnma6SsNMrP8GHXeKVLVr9k7CxFrrwkmRz3cEyr6j
 2159,2,1709,https://magiceden.io/item-details/sh5CjTtVSQbn6rmePsXuWHjidMrEbHHYxkEYk9nypmC
 2167,5,85,https://magiceden.io/item-details/B3pDfuK2F6czQaBAmq7TcsE9j5tggd82FcTxaaYtGEux
-2171,10,179,https://magiceden.io/item-details/25ZnEoj6qpx1N29npdS665LbDidVPnFwU8PJEWw5fg8K
 2172,1,208,https://magiceden.io/item-details/DkPSfyfCwPpxxDxjRggtXuESR8bzVRWzw75cGz4a2ZYm
 2174,1,117,https://magiceden.io/item-details/5XEEuaxsakagMaMzY9KnpmuRczcVME3ghANkCmcRZ8af
 2175,0.03,676,https://magiceden.io/item-details/Hqc9rhAZ9AggZuYobwSS9odEYVqi9mhZtXJHjXAJjHm1
