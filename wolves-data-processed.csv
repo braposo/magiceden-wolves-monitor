@@ -204,7 +204,6 @@ id,price,rank,url
 737,0.3,969,https://magiceden.io/item-details/3kJHV34oVV6k7C6j4H8Ap2njKe3JHtMt5XK9jtkPvR3G
 742,0.3,1437,https://magiceden.io/item-details/5uYftXygF5DVZuYbf72mr2rHEpcLq2u17Qpai2HYkaap
 745,0.45,407,https://magiceden.io/item-details/DC85AwuEmD6P6Sr8EPrp69ed3C9HjRJk6M6aeuu8998H
-746,0.49,59,https://magiceden.io/item-details/AmV9SK8z7WnaweTmHXVcwMVgj4D2Y5FWosN6XJwWZi4K
 747,0.3,2008,https://magiceden.io/item-details/BStffZuToeu7hd8FbbUgJWfM7Sz6Are49wptvER2Vfbv
 750,0.369,1354,https://magiceden.io/item-details/HbBSXmWjeNDktt9snxfAX43t3xptHBn2mPq6ZgcxgZn4
 751,0.04214,1856,https://magiceden.io/item-details/8e7r3PVLWeYw4cbvgqDMPczmEnuxFFskenMQkMBXJ9zb
@@ -260,6 +259,7 @@ id,price,rank,url
 938,0.03,1444,https://magiceden.io/item-details/7CnYNZmnpapcF87mDShFN6y8Fyd9vHLphMTGFqUL9AkQ
 941,0.444,1407,https://magiceden.io/item-details/4wGbeEpjoEcVBtypovgzyZ6fnmbajU9NERFA2ywQHxbc
 945,1.69,565,https://magiceden.io/item-details/2Kqyugftz243gDxFkJHB3RGXMQv1NqnSdA1xKDqfaKMd
+960,4.5,345,https://magiceden.io/item-details/CaErNT2rMmGcLSvyDK4pE7ZKEEuau2V2FQoTje6qGg9D
 972,1,1251,https://magiceden.io/item-details/FRpw7caLBUsBQnhGUJCmqd2M9qb3nt9JXe7iG4KWUYqM
 973,0.15,138,https://magiceden.io/item-details/DokRhJfPeVUNjw7psNR1ouP56FZMkSa4n4kpeRWjyCDe
 981,0.029,1524,https://magiceden.io/item-details/9T4Yy8QH6i6sAAq6TqCQSd1DiB5AZubuzwu7c75fAh3x
@@ -301,7 +301,6 @@ id,price,rank,url
 1184,1,1410,https://magiceden.io/item-details/6E3mXfgikDHzQjn4kdo9e91XUVZacu9QBksW15FX3SMn
 1188,0.029,2263,https://magiceden.io/item-details/9uL72btaSvjJ2EjFHvAxxnTSAHJs9pJWeocRYgVRJFDV
 1193,0.6,831,https://magiceden.io/item-details/EMNfTqkyENgtcnr91CPRLFABEoz5xqmmqzpK4tNoUSVn
-1196,0.769,80,https://magiceden.io/item-details/42rMCsjGPhXy3MD6B4VUkjEQSZZztAVgVrybvRjMoowp
 1197,0.1,1046,https://magiceden.io/item-details/GDEE31pKnGnJake79DBGQXaRTKypc35LsxVo8472Co2L
 1214,0.025,650,https://magiceden.io/item-details/3wPBaH7vhA3k8qsuGDvJsGiDf6yqSeyQvEDAg5YzEkTv
 1229,0.7,1449,https://magiceden.io/item-details/7CdyFw1JzvuvmftnxoNbxcFXEEffGaPbShRiRgxFcYjK
