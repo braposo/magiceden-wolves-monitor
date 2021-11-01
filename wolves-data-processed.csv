@@ -191,6 +191,7 @@ id,price,rank,url
 690,0.0369,2203,https://magiceden.io/item-details/DNTewVe3VzJVHSQDTPoZPHNyVrhmVW1jRFj1GUvp1WFX
 693,0.3,321,https://magiceden.io/item-details/2VjhzSxGsRefMneEg1s1okyHwq4H3Gy3NFHs5ZYkjWsq
 697,0.3,490,https://magiceden.io/item-details/6AV7xVTERdNj2TqFKvs86UtBaQC1PurnUc4DFktBcUiR
+709,0.0171,381,https://magiceden.io/item-details/71F5Y18At91Bn1xX3rqtW2SHeeBwr5sjrZa4UnCBLZr
 713,0.029,2136,https://magiceden.io/item-details/9sd7tPF4pbx9MtbeD3eiFSL6oKVjNhCcQ911sQvx55XS
 716,0.069,1505,https://magiceden.io/item-details/EkrbP6BzU2A5Ui1XnUiETwcgR8U2YL94PjxKx6b7dSjV
 721,0.2,2155,https://magiceden.io/item-details/B1hj3fe1JWUFVdjth9iB8r74Y2L2cN1RudbzhbZ8KCps
@@ -318,7 +319,6 @@ id,price,rank,url
 1242,0.5,1713,https://magiceden.io/item-details/7grnGca8sHxZN4X4vCYxA1gczu7VpHUkmuRrCeEqHiYm
 1247,0.0895,852,https://magiceden.io/item-details/DQX4GjxobdRZiuqAqFnjzEcnnT6ai42QJBVXQogqnwdx
 1254,1,2244,https://magiceden.io/item-details/H53gGVr9JvEa5HGQ1vnsAWERQDy1hJXW6Z9uhvV5Qsap
-1260,2,102,https://magiceden.io/item-details/CTKxUQW5VTDn82NCAndmwk6Lvu3k9GmDPuLH5Zb8m79s
 1277,2,1761,https://magiceden.io/item-details/GodX8zq3o2ik3SgM4fV9GQ2fqq7nVtU1SozNGid4jgsu
 1284,0.02,2086,https://magiceden.io/item-details/2s2KtPmJZE3nde8oNfnJn81QLzVbnBNxobf8jEs6j3J3
 1299,0.1,1109,https://magiceden.io/item-details/7MZmnQQQvEzdbvBhFtNRabdXkiWHp37nPvhCXVU6s5Nt
@@ -496,6 +496,6 @@ id,price,rank,url
 2236,0.7,2139,https://magiceden.io/item-details/7ztsWA38ukGRSJaeYCANrUJGNQ7LeYydBAQnzSLeWuAh
 2248,0.5,1307,https://magiceden.io/item-details/GBG1inx3rBi7RrXXMpmNgrZQwh3JCcGHMQ2ZJDNKHZfL
 2259,0.03,1858,https://magiceden.io/item-details/32TP2p9ppLff2m6CgQGY7enNRegVu2tjCxAq6mW9y6dN
-2261,0.01,866,https://magiceden.io/item-details/5BQwkyYULiALmwkKhR82YNwWqxWcUQManiwXbuqdbrZa
+2261,0.08,866,https://magiceden.io/item-details/5BQwkyYULiALmwkKhR82YNwWqxWcUQManiwXbuqdbrZa
 2269,1,1396,https://magiceden.io/item-details/6ePjWunMekwUcKKXrMVrrkMSGnqZbgqy3zZfntCzvbXd
 2273,0.05,824,https://magiceden.io/item-details/7wBdoVKMr2oG7JgWhJhSVVAjNC8A9TMJWrUdx8rq8keZ
