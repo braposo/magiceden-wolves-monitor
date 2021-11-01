@@ -224,7 +224,6 @@ id,price,rank,url
 769,0.04,1986,https://magiceden.io/item-details/28rtsTVweoiURU5vK24MUdn1McaFKHmegKQwmFxwYq2i
 771,0.069,1135,https://magiceden.io/item-details/CmhnQHHVYrmi3uMjY5wnPeccoDtH4erVyJ5jirkxrFNv
 773,0.0469,1145,https://magiceden.io/item-details/41ixWHcMj3FPGDwsYo8q1LYH4b1q2fdDS5FdyCS2wK1e
-775,1.5,270,https://magiceden.io/item-details/5Qoz2aBDsJGDrgd6K7bK2Btr73c4r7927tHvQhoCwugT
 776,0.2,494,https://magiceden.io/item-details/6mQy8s4Fsg6SNwJHRDx6cAjLMB1ufnbYkqRmAkpFRPTU
 778,1,730,https://magiceden.io/item-details/CmvcVTEwSZoK7JHyqHvrYggfhsL72Hv4sat9Ri6EGkdF
 779,0.2,2193,https://magiceden.io/item-details/3MeqD5AmAx5QnjikL7k23s46KoayVsysSYCCceNfoEps
@@ -333,7 +332,7 @@ id,price,rank,url
 1360,0.02,2077,https://magiceden.io/item-details/9TPBeC28dEgetT3NWHinwXrWahc5M9Mt9yfttfZRKmt8
 1361,0.15,1215,https://magiceden.io/item-details/4JKBE7JGeCkTxQZENh7cqTJt9pSM8rTyYFTZDkHxr6H2
 1368,0.5,1923,https://magiceden.io/item-details/95Q1rKDu83in28UPJkYHw5FnVNtkULUAsMWfwGAnMsdr
-1374,0.5,712,https://magiceden.io/item-details/DyqQwVsvdnngEC6L1SExvPWjpnUpDdiuMYW6XMh8b69t
+1374,0.02,712,https://magiceden.io/item-details/DyqQwVsvdnngEC6L1SExvPWjpnUpDdiuMYW6XMh8b69t
 1381,0.035,2034,https://magiceden.io/item-details/BWPq2PPNRyTYt5vMEKK6jKjQ8JW1XfX56zzfRSpmsShh
 1384,0.2,125,https://magiceden.io/item-details/8stoobCsYczmJpEfqh9gxUW3ZTg821ehCNoNUHacHc1W
 1392,1,1602,https://magiceden.io/item-details/62FeFPxJjYrSBa6e6yeNhwdSi6UwogLEAPBd5zJLgMkE
@@ -488,6 +487,7 @@ id,price,rank,url
 2198,1.1,21,https://magiceden.io/item-details/HjaxtEX9G3uFHja1mHQpUXWZFcE45sHSsd7H32AqLgfk
 2200,0.2,556,https://magiceden.io/item-details/DZbZykTDmCeSqyCdBFrTvJ5gN64p6ms3JDspTEqZbCRQ
 2211,0.75,748,https://magiceden.io/item-details/4hdk8nPMYWuQUN3wFyVE5468MZECWvUbWicruUdHyneN
+2216,0.099,247,https://magiceden.io/item-details/CeaDLqzhShUUiYogdDz8Vey3dhaZnrdU7cRrM41TQbt
 2218,1,252,https://magiceden.io/item-details/K5RxkzrS6RyMvZs2agHDD4cG1MLa4Gg4GTKCAK116SB
 2219,0.7,2145,https://magiceden.io/item-details/4rb3emj61KciHfoV6LKhnqXm6sNySgRA4TRff1C1uWBB
 2222,0.15,1502,https://magiceden.io/item-details/ALbnmCNNRQeheeDXiZHJ1Xes8VmqkLx3rt7DYeNgwmQa
