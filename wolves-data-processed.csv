@@ -48,11 +48,9 @@ id,price,rank,url
 301,0.045,1586,https://magiceden.io/item-details/CZCSJ1JmpQC5Dw62uV4HiTRv6ufhB6kBXEdXTq4RNeYm
 306,0.06,1758,https://magiceden.io/item-details/4JpXme61EKhKhnNKHSFqsi5sAZLXXoqM7aG4yhrmuMcv
 307,0.25,1421,https://magiceden.io/item-details/3WetRj9jkZzJ35TUZj9qf6iwv7UkEZDEiBTgCoeoMPvp
-312,0.018,666,https://magiceden.io/item-details/Fw9iKie3yBKtFzPEDfRAPr7kgS5jzgQyoZGEnCFjs3DY
 315,0.6,1448,https://magiceden.io/item-details/A3N2aJEx9ReLBwEX68TmSuFSwQQpfevk5xLtBS4GRCfF
 346,0.04,1960,https://magiceden.io/item-details/9gF3Evav2ug2b6k88F5qbepyTdSxbRHyAxm9pM6GuvVz
 348,0.4,28,https://magiceden.io/item-details/Ee6aWLs9f1nUmmZBZxnQRe4rh4t9Fe59DH2d4qxETgzg
-366,0.04,521,https://magiceden.io/item-details/9XiirBPbu38jEPWY7seHJufmzhFQ8N3h2JCFpCfCFbos
 367,0.2,1100,https://magiceden.io/item-details/6dd5W5K8AGq6Fm4PZ6KLCxrLmzexhxgzZ7i5drkq4c5t
 368,0.03,861,https://magiceden.io/item-details/nbjX2h1NDAQLejr1kFtcZXLMMc5XVtDrZrvA8HK9EH6
 379,0.1,1349,https://magiceden.io/item-details/5TDGtS1GxpZA2M6HtkZrtoW3Jp5gvw98RKxe8tp7Fcmc
@@ -252,6 +250,7 @@ id,price,rank,url
 876,0.06,2029,https://magiceden.io/item-details/2wv5zqGu42F9BTirLY4Xu2ZrQo9auVuWqWndtaHWPTGv
 888,0.04,682,https://magiceden.io/item-details/325tjQkqtzVFmc2F5wc9ysdfq2Drr6yaCwmabdbANRwL
 892,0.04,698,https://magiceden.io/item-details/3qtGzFQCcEkDHbFMgZ7KFAsrE4zaVNbapVi49VW4TMkB
+894,2,86,https://magiceden.io/item-details/CyxfwX38qn6ty9bXm5V1mTQWzjAG2WeUyUPoTndYr1gi
 900,1,280,https://magiceden.io/item-details/4C3BEkCAkWYPV3F3dadjH8BAce9kmAWX3PopkD262iFR
 901,1,211,https://magiceden.io/item-details/B5AxoQZteihfo9PRUxPHfL7LgnAhjiJp6FJgKAJ4oeuE
 907,0.03,520,https://magiceden.io/item-details/5LBEJEqmyMBPoLvXxCLvB36819d1aoCXLcceCayFcFDk
@@ -427,6 +426,7 @@ id,price,rank,url
 1961,0.35,142,https://magiceden.io/item-details/DGYnv2EFAtEZkXugF1Q6cKnbm7tGCvdj8zNjxLqbJsZA
 1962,1,429,https://magiceden.io/item-details/AzXuECYVWXqmSnWs8kmkDbas8RNXBU8ZgWqEP7yXZmR2
 1966,0.14,133,https://magiceden.io/item-details/3zsz4jAFYjxeSFF7T3r5Xcwa3Mwwv6mYm14iLdCqKiLG
+1972,2,649,https://magiceden.io/item-details/BP3YHpVJKZVwZq2uLkWEaR1R5jxe1t5usfSJ2PFBosrF
 1980,0.2,481,https://magiceden.io/item-details/5DYiabdg9LrZ59sF7vv7W4cgqUFVEnVZ4cauE7RoopFt
 1993,0.5,1792,https://magiceden.io/item-details/4gpFR5XzzDV179M2PZzmWrLsHi33ccunEHJS9io2KyxY
 1994,0.5,1622,https://magiceden.io/item-details/2h1HbFTmadFTiF816yGbQznyGHj88P2QpRHn4XbF2Cy4
